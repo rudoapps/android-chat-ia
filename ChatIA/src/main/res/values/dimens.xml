@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Padding -->
+    <dimen name="padding_icon_button_chat">10.dp</dimen>
+    <dimen name="padding_text_tooltip">10.dp</dimen>
+
+    <!-- Margin -->
+    <dimen name="margin_tooltip">5.dp</dimen>
+
+    <!--  Round Corner -->
+    <dimen name="round_corner_tooltip_chat">20.dp</dimen>
+</resources>

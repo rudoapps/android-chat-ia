@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_button_text">¿Te puedo ayudar en algo?</string>
+    <string name="help">Ayuda</string>
+    <string name="write_here">Escribe aquí</string>
+    <string name="writing">escribiendo…</string>
+    <string name="try_again">Inténtalo de nuevo</string>
+    <string name="error_sending_message">Error al enviar mensaje.</string>
+    <string name="phone_whitout_connection">Teléfono sin conexión.</string>
+</resources>
